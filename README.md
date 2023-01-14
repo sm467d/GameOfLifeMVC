@@ -9,4 +9,5 @@ A live cell survives if it has either 2 or 3 living neighbors
 A live cell with more than 3 or less than 2 neighbors dies
 
 
-	The game typically starts with a “seed” or initial pattern, which gives way to a myriad of possibilities. For this assignment, we were given one to implement (the glider) but came up with another 4 we could successfully incorporate.
+	The game typically starts with a “seed” or initial pattern, which gives way to a multitude of possibilities.
+	
